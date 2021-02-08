@@ -73,6 +73,8 @@ def daily_stats(time_series):
     #ritorno una lista di liste contenente le statistiche giornaliere
     return stats
 
+#fine
+
 
 
    
